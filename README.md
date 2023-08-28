@@ -1,5 +1,5 @@
 ## Diogobr23
-Com uma base em matemática e uma carreira como especialista em investimentos, estou embarcando em uma jornada de transição para me tornar um cientista de dados. Meu interesse pela tecnologia se funde com minha experiência financeira, e estou focado em aprender e evoluir nesse campo. Estou entusiasmado em aplicar meu conhecimento de mercado e habilidades analíticas em conjunto com a ciência de dados, enquanto busco conexões valiosas e desenvolvimento contínuo.
+Com uma sólida base em matemática e uma carreira como especialista em investimentos, estou embarcando em uma jornada de transição para me tornar um cientista de dados. Meu interesse pela tecnologia se funde com minha experiência financeira, e estou focado em aprender e evoluir nesse campo. Estou entusiasmado em aplicar meu conhecimento de mercado e habilidades analíticas em conjunto com a ciência de dados, enquanto busco conexões valiosas e desenvolvimento contínuo.
 
 With a background in mathematics and a career as an investment specialist, I'm embarking on a transition journey to become a data scientist. My interest in technology converges with my financial expertise, and I'm dedicated to learning and growing in this field. I'm excited to apply my market knowledge and analytical skills alongside data science as I seek meaningful connections and continuous development.
 
