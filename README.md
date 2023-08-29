@@ -15,4 +15,5 @@ With a solid background in mathematics and a career as an investment specialist,
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diogobr23&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)
 
-
+## Top Languages
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Diogobr23&bg_color=000&border_color=30A3DC&title_color=30A3DC&text_color=FFF)
