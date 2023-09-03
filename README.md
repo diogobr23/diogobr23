@@ -4,7 +4,7 @@ Com uma sólida base em matemática e uma carreira como especialista em investim
 With a solid background in mathematics and a career as an investment specialist, I'm embarking on a transition journey to become a data scientist. My interest in technology converges with my financial expertise, and I'm dedicated to learning and growing in this field. I'm excited to apply my market knowledge and analytical skills alongside data science as I seek meaningful connections and continuous development.
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)]([https://www.linkedin.com/in/diogo-ramos-cea-997407176/](https://www.linkedin.com/in/diogobarbosaramos/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/diogobarbosaramos/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/diogob.ramos/)
 
